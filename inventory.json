@@ -1,14 +1,14 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-10-30",
   "quantities": {
-    "frango": null,
-    "calabresa": null,
-    "bauru": null,
-    "nutella": null,
-    "maca": null,
-    "banana": null,
-    "tradicional": null,
-    "especial": null,
-    "canela": null
+    "frango": 0,
+    "calabresa": 0,
+    "bauru": 0,
+    "nutella": 0,
+    "maca": 0,
+    "banana": 0,
+    "tradicional": 0,
+    "especial": 0,
+    "canela": 0
   }
 }
